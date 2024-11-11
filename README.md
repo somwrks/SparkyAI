@@ -96,3 +96,13 @@ The bot can be used in Discord servers to:
 - [ ]  safety feature- track or identify heated argument, formal warning in dms of people
 - [ ]  final testing
 - [ ]  research hosting services
+
+
+### Custom GenAI Module Edit
+
+I edited the gemini module files for implementing asynchronous functions as the tools for the gemini agents when working in a connected environment of connected gemini agents.
+
+You can use asynchronous functions as tools for gemini agents by editing the `venv\Lib\site-packages\google\generativeai\types\content_types.py`  with `custom_module_files/content_types.py`
+
+
+
