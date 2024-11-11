@@ -1,4 +1,4 @@
-# Sparky Discord Bot
+# SparkyAI
 
 A Discord bot that uses RAG (Retrieval-Augmented Generation) via web scraping to provide specific answers about Arizona State University.
 
